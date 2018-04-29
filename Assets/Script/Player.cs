@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//馬の動き
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

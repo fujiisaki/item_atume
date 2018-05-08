@@ -18,6 +18,22 @@ public class startbutton : MonoBehaviour {
 
 	
 	// 現在のシーンを再読込する
-	SceneManager.LoadScene("Scene1");
+	SceneManager.LoadScene("Scene1_1");
+
 	}
+	public void level1(){
+
+
+		// 現在のシーンを再読込する
+		SceneManager.LoadScene("Scene1");
+
+	}
+	public void level2(){
+
+
+		// 現在のシーンを再読込する
+		SceneManager.LoadScene("Scene1_2");
+
+	}
+
 }

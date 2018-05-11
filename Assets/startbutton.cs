@@ -35,5 +35,19 @@ public class startbutton : MonoBehaviour {
 		SceneManager.LoadScene("Scene1_2");
 
 	}
+	public void option(){
+
+
+		// 現在のシーンを再読込する
+		SceneManager.LoadScene("Start");
+
+	}
+	public void levelchoice(){
+
+
+		// 現在のシーンを再読込する
+		SceneManager.LoadScene("Scene1_1");
+
+	}
 
 }

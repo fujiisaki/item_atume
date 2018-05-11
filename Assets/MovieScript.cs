@@ -7,10 +7,10 @@
 	public class MovieScript : MonoBehaviour {
 		
 
-		NavMeshAgent agent = null;
+	//NavMeshAgent agent;
 
 		void Start () {
-			agent = GetComponent<NavMeshAgent> ();
+			//agent = GetComponent<NavMeshAgent> ();
 		}
 
 		// Update is called once per frame
